@@ -39,11 +39,11 @@ Check out my profiles:
 <details>
   <summary>GitHub Stats ⚡</summary><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=kishoreanands&show_icons=true&theme=tokyonight&hide_border=true" />
+
 
   <img src="https://streak-stats.demolab.com?user=kishoreanands&theme=tokyonight&hide_border=true" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoreanands&layout=compact&theme=tokyonight&hide_border=true" />
+ 
 
   <br><br>
 
@@ -53,9 +53,7 @@ Check out my profiles:
 
 </details>
 
-<img src="https://raw.githubusercontent.com/kishoreanands/kishoreanands/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
----
 
 ## 👨‍💻 About Me
 
