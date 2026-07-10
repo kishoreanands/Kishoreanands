@@ -1,38 +1,65 @@
-````md
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kishore%20Anand%20S&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Developer%20%7C%20ECE%20Undergraduate%20%7C%20IoT%20Enthusiast&descAlignY=62&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kishore%20Anand%20S&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Developer%20%7C%20IoT%20Enthusiast%20%7C%20ECE%20Undergraduate&descAlignY=62&descSize=16" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Tinos&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Kishore+Anand+S+👋;Java+Developer+%7C+IoT+Enthusiast;ECE+Undergraduate+at+VSB+Engineering+College;Published+Researcher+in+Battery+Management+Systems;Open+to+Software+Developer+Roles+🚀" width="70%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Tinos&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=Hi+there,+I'm+Kishore+Anand+S+👋;Java+Developer+%7C+IoT+Enthusiast;ECE+Student+at+VSB+Engineering+College;Published+Researcher+in+Battery+Management+Systems;Open+to+Software+Developer+Roles+🚀" />
 </p>
 
 # Hey There! 👋
-**I'm Kishore Anand S** — an Electronics and Communication Engineering undergraduate passionate about Java development, IoT systems, Embedded Systems, and AI technologies.
 
-I enjoy building smart systems that solve real-world problems and continuously improve my skills in software development and emerging technologies.
+I'm **Kishore Anand S**, an Electronics and Communication Engineering undergraduate at **VSB Engineering College, Karur**.
 
-### 🌐 Connect With Me
-- GitHub: https://github.com/kishoreanands
-- LinkedIn: https://www.linkedin.com/in/kishoreanandsivakumar
-- LeetCode: https://leetcode.com/u/kishoreanandsivakumar/
-- Email: kishoreanand876@gmail.com
+I am passionate about **Java Development, Embedded Systems, IoT, Artificial Intelligence, and VLSI Design**. I enjoy solving real-world problems through technology and continuously improving my technical skills.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,git,github,vscode,mysql&theme=dark" />
+---
+
+## 🌐 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/kishoreanandsivakumar
+- 💻 GitHub: https://github.com/kishoreanands
+- 🏆 LeetCode: https://leetcode.com/u/kishoreanandsivakumar/
+- 📧 Email: kishoreanand876@gmail.com
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,git,github,vscode&theme=dark" />
 </p>
 
-<p>
+---
+
+## 📌 Current Status
+
+<p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Java%20%7C%20IoT%20%7C%20Embedded-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Java%20%7C%20IoT%20%7C%20VLSI-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mode-Always%20Learning-orange?style=for-the-badge" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/OOP-70A5FD?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-BF91F3?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-38BDAE?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/VLSI-38BDAE?style=for-the-badge&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-Projects-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VLSI-Chip%20Design-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embedded-Systems-purple?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kishoreanands&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishoreanands&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoreanands&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -41,116 +68,120 @@ I enjoy building smart systems that solve real-world problems and continuously i
 
 ```java
 class KishoreAnand {
+
     String name = "Kishore Anand S";
     String location = "Krishnagiri, Tamil Nadu, India";
-    String degree = "B.E Electronics and Communication Engineering";
-    String college = "VSB Engineering College, Karur";
+
+    String degree =
+            "B.E Electronics and Communication Engineering";
+
+    String college =
+            "VSB Engineering College, Karur";
+
     double cgpa = 7.6;
 
     String[] skills = {
-        "Java",
-        "HTML",
-        "CSS",
-        "IoT",
-        "Embedded Systems",
-        "VLSI Chip Design"
+            "Java",
+            "HTML",
+            "CSS",
+            "IoT",
+            "Embedded Systems",
+            "VLSI Chip Design"
     };
 
-    String[] currentlyLearning = {
-        "Advanced Java",
-        "Data Structures and Algorithms",
-        "Cloud Computing",
-        "Artificial Intelligence",
-        "Software Development"
+    String[] certifications = {
+            "Java - GUVI",
+            "Artificial Intelligence - Infosys Springboard",
+            "VLSI Chip Design - Maven Silicon"
     };
 
-    String funFact = "Published a research paper on Battery Management Systems.";
+    String research =
+            "Published Research Paper on Battery Management System";
 
-    public String motto() {
-        return "Learn, Build, Innovate and Grow 🚀";
+    String motto() {
+        return "Learn • Build • Innovate 🚀";
     }
 }
-
-public class Main {
-    public static void main(String[] args) {
-        KishoreAnand me = new KishoreAnand();
-        System.out.println(me.motto());
-    }
-}
-````
+```
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Projects
 
-| Project                                   | Technologies                        | Highlights                                                                   |
-| ----------------------------------------- | ----------------------------------- | ---------------------------------------------------------------------------- |
-| 🚰 Automated Municipal Water Flow Control | IoT, Flow Sensors, Embedded Systems | Smart water distribution monitoring with automated billing and flow tracking |
-| 🚰 Smart Billing System                   | IoT, Sensors, Automation            | Calculates water usage in real-time and generates automated bills            |
-| 🔋 Battery Management System              | Embedded Systems, Electric Vehicles | Automatic regenerative charging and battery health monitoring                |
-| ⚡ Battery Cell Balancing System           | Battery Monitoring, IoT             | Prevents overcharging and deep discharge using automated load balancing      |
+## 🚰 Automated Municipal Water Flow Control Using Flow Sensor
+
+**Technologies:** IoT, Embedded Systems, Flow Sensors, Automated Billing
+
+- Developed an IoT-based smart water management system.
+- Monitored water consumption in real time.
+- Implemented automated billing generation.
+- Added threshold-based water flow control to prevent wastage.
+- Enabled automatic shutoff during abnormal usage.
+
+---
+
+## 🔋 Battery Management System
+
+**Technologies:** Embedded Systems, Electric Vehicles, Regenerative Charging
+
+- Designed a smart battery management system for EVs.
+- Implemented regenerative charging while driving.
+- Monitored battery health and temperature.
+- Developed load balancing across battery cells.
+- Prevented overcharging and deep discharge.
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-* 🥇 Java Certification — GUVI | HCL (2024)
-* 🤖 Artificial Intelligence Certification — Infosys Springboard (2025)
-* 💻 VLSI Chip Design Certification — Maven Silicon (2026)
-* 📄 Published Research Paper on **Battery Management System** (2025)
+- ☕ **Java Certification** — GUVI | HCL (2024)
+- 🤖 **Artificial Intelligence** — Infosys Springboard (2025)
+- 💻 **VLSI Chip Design** — Maven Silicon (2026)
+- 📄 Published Research Paper on **Battery Management System** (2025)
 
 ---
 
 ## 🎓 Education
 
-| Degree                                        | Institution                             | Score     |
-| --------------------------------------------- | --------------------------------------- | --------- |
-| B.E Electronics and Communication Engineering | VSB Engineering College, Karur          | CGPA: 7.6 |
-| HSC                                           | Marutham Matric Higher Secondary School | 76.1%     |
-| SSLC                                          | Marutham Matric Higher Secondary School | Pass      |
+| Qualification | Institution | Score |
+|--------------|------------|-------|
+| B.E ECE | VSB Engineering College, Karur | CGPA 7.6 |
+| HSC | Marutham Matric Higher Secondary School | 76.1% |
+| SSLC | Marutham Matric Higher Secondary School | Pass |
 
 ---
 
 ## 📚 Currently Learning
 
 ```text
-☕ Advanced Java        → Collections, Multithreading, JDBC
-🧠 DSA                 → Arrays, Linked Lists, Trees, Graphs
-☁️ Cloud Computing     → AWS Basics, Deployment
-🤖 Artificial Intelligence → AI Tools and Applications
-🚀 Software Engineering → System Design and Best Practices
+☕ Advanced Java
+🧠 Data Structures and Algorithms
+🤖 Artificial Intelligence
 ```
 
 ---
 
-## 🛠 Skills
+## 💡 Soft Skills
 
-### Programming
-
-* Java
-* HTML
-* CSS
-
-### Hardware & Design
-
-* VLSI Chip Design
-* Embedded Systems
-* Flow Sensor Integration
-
-### Soft Skills
-
-* Leadership
-* Communication
-* Team Work
-* Critical Thinking
-* Time Management
-* Quick Learner
+- Leadership
+- Communication
+- Team Work
+- Critical Thinking
+- Time Management
+- Quick Learner
 
 ---
 
-> **Passionate about building innovative software and embedded solutions that create real-world impact.**
+## 👀 Profile Views
 
-![footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=6,11,20\&height=120\&section=footer\&animation=twinkling)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kishoreanands&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
 
-```
-```
+---
+
+> **"Building smart solutions using software and embedded technologies to solve real-world problems."**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+</p>
