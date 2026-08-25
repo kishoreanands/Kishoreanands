@@ -131,7 +131,6 @@ class KishoreAnand {
 | ☕ | Programming in Java | GUVI \| HCL |
 | 🤖 | Artificial Intelligence | Infosys Springboard |
 | 💻 | VLSI Chip Design | Maven Silicon |
-| 📄 | Published Research Paper on Battery Management System | Research Publication |
 
 </div>
 
