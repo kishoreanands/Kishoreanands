@@ -126,11 +126,14 @@ class KishoreAnand {
 
 <div align="center">
 
-| 🏆 | Achievement | Issuer |
-|----|-------------|--------|
-| ☕ | Programming in Java | GUVI \| HCL |
-| 🤖 | Artificial Intelligence | Infosys Springboard |
-| 💻 | VLSI Chip Design | Maven Silicon |
+| Credential | Issuing Organization | Year  | Focus Area |
+| :--- | :--- | :---: | :--- |
+| ⚡ **Embedded System Design - Overview** | **Maven Silicon** &bull; Centre of Excellence in Semicon | 2026 <br>  | Microcontroller Interfacing, Firmware, Embedded C & RISC-V |
+| 🌐 **Introduction to IoT & Digital Transformation** | **Cisco Networking Academy** &bull; EdCreate Foundation | 2025 | Industrial IoT Architecture, Connected Sensors & Networks |
+| 🗄️ **SQL (Intermediate)** | **HackerRank** | 2026 <br>  | Complex Queries, Joins, Aggregation & Database Performance |
+| ☕ **Java Programming** | **GUVI \| HCL** | 2024 | Core Java OOP, Multithreading & Algorithm Problem Solving |
+| 🤖 **Artificial Intelligence** | **Infosys Springboard** | 2025 | AI Concepts, Machine Learning & Intelligent Applications |
+| 🔬 **VLSI Chip Design** | **Maven Silicon** | 2026 | RTL Synthesis, Verilog HDL & Semiconductor Architecture |
 
 </div>
 
