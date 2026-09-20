@@ -109,18 +109,57 @@ class KishoreAnand {
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Real-World Engineering Innovations
 
-<div align="center">
-
-| Project | Stack | Highlights |
-|--------|-------|------------|
-| 🚰 Automated Municipal Water Flow Control Using Flow Sensor | IoT · Flow Sensors · Embedded Systems | Smart municipal water monitoring with automated billing and flow control |
-| 🔋 Battery Management System | Embedded Systems · Electric Vehicles · Regenerative Charging | Battery health monitoring, regenerative charging and automatic load balancing |
-
-</div>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">💧 Municipal Water Flow Control</h4>
+      <p align="center"><em>IoT & Embedded Automation</em></p>
+      <ul>
+        <li>Integrated flow sensor network for automated municipal water monitoring.</li>
+        <li>Instant leak and abnormal flow detection with automated shut-off valve.</li>
+        <li>Usage tracking and automated billing reports to eliminate public water wastage.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/kishoreanands/automatic-municiple-water-flou-to-an-over-head-tank">
+          <img src="https://img.shields.io/badge/GitHub-Repository-f72585?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">🔋 EV Battery Management System</h4>
+      <p align="center"><em>EV Technology & BMS</em></p>
+      <ul>
+        <li>Real-time multi-cell voltage, current, and SoC temperature monitoring.</li>
+        <li>Dynamic regenerative braking energy recovery loop for EV efficiency.</li>
+        <li>Over-voltage, thermal runaway, and deep-discharge safety protection.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/kishoreanands/Battery-Management-System">
+          <img src="https://img.shields.io/badge/GitHub-Repository-9d4edd?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">🧠 EduAI Smart Learning Assistant</h4>
+      <p align="center"><em>Adaptive AI Platform</em></p>
+      <ul>
+        <li>Personalized study recommendations and interactive doubt resolution.</li>
+        <li>Automated quiz and concept flashcard generation from notes.</li>
+        <li>Real-time learning velocity and student progress analytics dashboard.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/kishoreanands/eduai_chatbox_">
+          <img src="https://img.shields.io/badge/GitHub-Repository-f72585?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ## 🏅 Certifications & Achievements
 
@@ -147,7 +186,7 @@ class KishoreAnand {
 |--------|-------------|------|-------|
 | B.E Electronics & Communication Engineering | VSB Engineering College, Karur | 2023 - Present | CGPA: 7.6 |
 | Higher Secondary Certificate (HSC) | Marutham Matric Higher Secondary School | 2023 | 76.1% |
-| SSLC | Marutham Matric Higher Secondary School | 2021 | Pass |
+| SSLC | Marutham Matric Higher Secondary School | 2021 | 80% |
 
 </div>
 
